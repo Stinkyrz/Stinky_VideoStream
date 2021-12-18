@@ -1,7 +1,7 @@
 {
-    "name": "VCPlayerBot",
+    "name": "Stinky_VideoStream",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/subinps/VCPlayerBot",
+    "repository": "https://github.com/Stinkyrz/Stinky_VideoStream",
     "stack": "container",
     "keywords": [
       "telegram",
